@@ -1,4 +1,5 @@
-# 云端教育-教师端
-This is an app for teachers who want to open courses online. Are you a teacher? Want to open your own course? Come to the "Cloud" to open your own class, the teacher family welcomes you to join ~
+# 格斗体育
 
-If you have any questions, please contact the technical support email address: w0e4t7@yeah.net, thank you for your support.
+We are an app dedicated to online booking for boxing learning. Users who like to learn boxing fighting can choose the venue they want to learn about boxing through our platform. All the boxing venues provided by our platform are excellent venues with good quality, beautiful environment and good service. Users can study with confidence.
+
+If you have any questions, please contact the technical support email address: rivitt@163.com, thank you for your support.
