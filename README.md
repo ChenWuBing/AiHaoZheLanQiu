@@ -1,4 +1,4 @@
-# 直播吧--兴趣篮球赛事
+# 直播吧--爱好者篮球赛事
 
 We are a platform to broadcast basketball games in live text. Users can get the latest basketball game news on our platform. For each basketball game, a dedicated host will describe the situation in writing on the court.
 
